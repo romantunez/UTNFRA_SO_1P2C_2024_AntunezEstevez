@@ -1,0 +1,4 @@
+MemTotal:        2010896 kB
+	Manufacturer: Oracle Corporation
+MemTotal:        2010896 kB
+	Manufacturer: Oracle Corporation
